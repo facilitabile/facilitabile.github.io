@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.facilitabile.agilecome", "sha256_cert_fingerprints": ["98:CF:E7:CF:82:D9:3A:B1:7E:91:26:92:47:02:24:F8:1A:A0:0A:CF:5C:14:79:7F:5B:2E:69:E0:00:C9:5E:9C"]}}]
